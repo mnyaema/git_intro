@@ -1,0 +1,19 @@
+I would like to work with SAS data
+# what types of work would you like to do? Multivariate analyses, managing data, or predictive analysis?
+ 
+I would also like to work with SPSS data
+# similar types of questions as for SAS
+
+# other ways to use SAS and SPSS data like descriptive statistics, cluster analysis, linear regression could be considered
+
+<<<<<<< HEAD
+# First add then commit
+
+Project
+# Tools used
+-R
+-git
+=======
+#github location
+<https://github.com/mnyaema/git_intro.git>
+>>>>>>> project
